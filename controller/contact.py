@@ -9,3 +9,11 @@ def create_contact();
 #Update contact
 def update_contact();
  print 'contact update done.'
+
+ #Get contact
+ def get_contact();
+ print 'Contact get done.'
+
+ # Remove contact
+ def Remove_contact();
+ print 'remove Delete done.'
